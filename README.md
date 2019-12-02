@@ -10,7 +10,7 @@ The project will run on the localhost:4200
 # Prerequisites
 
 Install Node package 
-
+npm install / npm i
 # Installing
 
 The npm start command builds (compiles TypeScript and copies assets) the application into dist/, watches for changes to the source files, and runs lite-server on port 4200.
@@ -22,6 +22,7 @@ Shut it down manually with Ctrl-C.
 2. Update Component: Right side of the page and will appear click on the add field button 
 3. Preview Component: To display the actual form created.
 
+ fields in Update component of form validation:
  1. Unique ID: Randomly generated at the time of creation 
  2. Visible: Boolean flag (decides if the field must be shown or not)
  3. Required: Boolean flag (decides if the field must have value or not)
@@ -33,7 +34,7 @@ Shut it down manually with Ctrl-C.
  - Dropdown 
  - Multiselect 
  - checkboxes 
- 
+ # 
 
 
 
