@@ -22,10 +22,18 @@ Shut it down manually with Ctrl-C.
 2. Update Component: Right side of the page and will appear click on the add field button 
 3. Preview Component: To display the actual form created.
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
+ 1. Unique ID: Randomly generated at the time of creation 
+ 2. Visible: Boolean flag (decides if the field must be shown or not)
+ 3. Required: Boolean flag (decides if the field must have value or not)
+ 4. Order: Number (decides which position the field will be shown) 
+ 5. Name / Label: text (Label for the field)
+ 6. Type: Drop Down with all the input field types provided (except radio button). 
+ - Text field 
+ - Text Area
+ - Dropdown 
+ - Multiselect 
+ - checkboxes 
+ 
 
 
 
